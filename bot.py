@@ -14,7 +14,7 @@ SCOPES = ['https://www.googleapis.com/auth/business.manage']
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 if not TOKEN:
-    raise ValueError("Please set TELEGRAM_BOT_TOKEN in your environment or .env file")
+    raise ValueError("8492051476:AAFy919FsjmhTM-JJ5muHCrhB6Ga07rj7io")
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
